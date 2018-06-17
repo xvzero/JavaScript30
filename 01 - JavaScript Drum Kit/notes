@@ -1,0 +1,5 @@
+What I learned:
+
+- selection of html elements through custom data attributes
+- how to work with html audio elements
+- can't add event listener to a list of elements (have to iterate through and add to each one separately)
